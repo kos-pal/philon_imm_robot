@@ -1,7 +1,11 @@
 Cartesian Robot for Injection Molding Machines
 
 
-https://user-images.githubusercontent.com/103308852/207924055-8e516f32-f6a9-4c77-8134-74aa16357172.mp4
+
+
+https://user-images.githubusercontent.com/103308852/210091041-ee0badd0-2c9d-4444-b48f-976184723d4a.mp4
+
+
 
 
 This is a 3 axis robot for Euromap 12 compatible injection molding machines.<br/><br/>
