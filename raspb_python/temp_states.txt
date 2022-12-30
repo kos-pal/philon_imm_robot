@@ -1,0 +1,11 @@
+v 0.1
+i.in.*******
+i.out.******0*
+s.move.0
+s.compl.1
+z.out.**1
+s.move.2
+s.compl.4
+z.out.**0
+s.move.5
+s.compl.5
